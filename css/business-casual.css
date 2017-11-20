@@ -1,0 +1,162 @@
+/*!
+ * Start Bootstrap - Business Casual (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */
+
+body {
+  font: .8em Arial, Verdana, Tahoma, Sans-Serif; 
+	color: #555; 	
+  background: url('../img/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.tagline-upper {
+  font-size: 5rem;
+  font-weight: 300; /*700*/
+  line-height: 1;
+  font-family: "Times New Roman";
+}
+
+.tagline-lower {
+  font-size: 1rem;
+  line-height: 1;
+  font-family: "Times New Roman";
+}
+
+.text-expanded {
+  letter-spacing: 2px;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.bg-faded {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+hr.divider {
+  border-color: #292b2c;
+  max-width: 250px;
+}
+
+.map-container iframe {
+  pointer-events: none;
+}
+
+.map-container iframe.clicked {
+  pointer-events: auto;
+}
+.oculto{
+	
+	display: none;
+}
+#historial, #establecimiento, #titulo, #muestra{
+     background-color: #D6D2D2;
+	 text-align: center;
+	
+}
+
+#menucliente{ 
+	float: none;
+	padding-bottom: 6px;	
+	background: white;
+	display: none;
+}
+
+.seleccionado{
+	background-color: red;
+}
+
+#sectorcentral, #historial{
+	
+	border-width:5px;  
+    border-style:ridge;
+	border-color: #D6D2D2;
+	text-align: center;
+	
+}
+
+#buscarb{
+	background-color: #D6D2D2;
+}
+#formpedido {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url('../img/bgx.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+/* footer */
+#footer { 
+	clear: both; 
+	color: white; 
+	background: url(../images/footertile.jpg) repeat-x;
+	font-size: .9em;
+}
+#footerbg {	
+	padding: 35px 0 15px 0;
+	background: url(../images/footer.jpg) no-repeat center top;
+}
+#footer p { 
+	margin: 0 0 12px;
+	padding: 6px 0;
+}
+#footer_menu {
+	float: right;
+	padding: 4px 0 0;
+}
+#footer a { 
+	color: white; 
+	margin: 0 5px 0 0; 
+	padding: 6px 10px;
+	background: url(../images/dot.png) no-repeat left center; 
+	border: 1px solid transparent;
+}
+#footer a:hover {
+	border-color: #555;
+}
+#fleft {
+	clear: both;
+	padding: 25px 0 0;
+	font-size: .94em;
+}
+
+#copy { 
+	color: white; font-size: 1.5em; 
+}
+#copy span { 
+	color: #999; 
+}
+ #loguearse {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url('../img/logoLETRASBLANCAS') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}

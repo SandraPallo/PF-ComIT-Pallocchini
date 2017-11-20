@@ -1,0 +1,55 @@
+#historial, #establecimiento, #titulo, #muestra{
+     background-color: #D6D2D2;
+	 text-align: center;	
+}
+
+#titulo {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: white;
+  background: url('../img/bgx2.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding: 20px;
+}
+
+#historial{
+  margin: 14px;
+}
+
+.oculto{
+	display: none ;
+}
+
+.seleccionado{
+	background-color: red;
+}
+
+#sectorcentral, #historial{
+	
+	border-width:5px;  
+    border-style:ridge;
+	border-color: #D6D2D2;
+	text-align: center;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+	
+}
+
+
+
+.inputvet{
+	margin: 3px;
+	background-color: #D6D2D2;
+	border-width: 0px;
+		
+}
+#h6pedido{
+	font-size: 12px;
+}
+

@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+
+#logo {
+	background-image: url(../images/bg2.jpg);
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+body { 
+	
+}
+/* content holder */
+.wrap { 
+	margin: 0 auto; 
+	width: 960px;
+}
+
+
+
+#map{
+	margin-top:40px;
+	margin-bottom:40px;
+}
+
+
+/* footer */
+#footer { 
+	clear: both; 
+	color: white; 
+	background: url(../images/footertile.jpg) repeat-x;
+	font-size: .9em;
+}
+#footerbg {
+	
+	padding: 35px 0 15px 0;
+	background: url(../images/footer.jpg) no-repeat center top;
+}
+#footer p { 
+	margin: 0 0 12px;
+	padding: 6px 0;
+}
+#footer_menu {
+	float: right;
+	padding: 4px 0 0;
+}
+#footer a { 
+	color: white; 
+	margin: 0 5px 0 0; 
+	padding: 6px 10px;
+	background: url(../images/dot.png) no-repeat left center; 
+	border: 1px solid transparent;
+}
+#footer a:hover {
+	border-color: #555;
+}
+#fleft {
+	clear: both;
+	padding: 25px 0 0;
+	font-size: .94em;
+}
+
+#copy { 
+	color: white; font-size: 1.5em; 
+}
+#copy span { 
+	color: #999; 
+}
+ #loguearse {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: url('../img/logoLETRASBLANCAS') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.oculto{
+	
+	display: none;
+}
+#menucliente{ 
+	float: none;
+	padding-bottom: 6px;	
+	background: white;
+	display: none;
+}
+
+
